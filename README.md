@@ -18,13 +18,7 @@ I am a first-year student currently learning and exploring different areas of te
 
 ## Goals
 
-My goal is to become more confident in coding and build useful projects. I also want to develop a strong online presence and learn skills that will help me in my future career.
-
-## Connect with Me
-
-* LinkedIn: (Add your LinkedIn link here)
-
----
+My goal is to become more confident in coding and build useful projects. I also want to develop a strong online presence and learn skills that will help me in my future career
 
 ⭐ This profile is part of my Digital Literacy Project.
 
