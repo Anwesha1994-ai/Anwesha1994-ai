@@ -20,7 +20,6 @@ I am a first-year student currently learning and exploring different areas of te
 
 My goal is to become more confident in coding and build useful projects. I also want to develop a strong online presence and learn skills that will help me in my future career
 
-⭐ This profile is part of my Digital Literacy Project.
 
 <!--
 **Anwesha1994-ai/Anwesha1994-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
